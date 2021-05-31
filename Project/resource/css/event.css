@@ -1,0 +1,43 @@
+body{
+    background-image: url('/resource/img/green.jpg');
+    background-size: 100% 114%;
+    background-repeat: no-repeat;
+    margin:0%;
+}
+.na{
+    background-color: #76b446;
+    padding: 8px;
+}
+.na a{
+    padding-left: 180px;
+    padding-right: 180px;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+.na a:hover{
+    background-color: white;
+    color: #76b446 ;
+}
+.name{
+    text-align: center;
+    color:brown;
+}
+h1{
+    padding-top: 15px;
+    font-size:60px;
+    text-shadow: 1px 2px gray;
+    font-family: sans-serif,monospace;
+}
+h2{
+    padding-top: 16%;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #76b446;
+    color: white;
+    text-align: center;
+}
